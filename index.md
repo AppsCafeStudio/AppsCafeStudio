@@ -1,6 +1,6 @@
 Privacy Policy for Arrow Escape
-Effective Date: August 14, 2026
-Last Updated: August 14, 2026
+Effective Date: August 18, 2026
+Last Updated: August 18, 2026
 Developer Name: AppsCafeStudio
 Application Name: Arrow Escape ("the Game")
 Package Name: com.appscafe.arrows.puzzle.game
