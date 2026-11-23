@@ -1,10 +1,10 @@
 # Privacy Policy for Chishtian Mart
 
-**Last Updated:** November 20, 2026  
-**Effective Date:** November 20, 2026  
-**App Name:** Chishtian Mart: Daily Grocery  
+**Last Updated:** November 23, 2026  
+**Effective Date:** November 23, 2026  
+**App Name:** Chishtian Mart: Online Grocery  
 **Package Name:** `com.appscafe.ctn.chishtianmart`  
-**Developer / Service Provider:** Chishtian Mart (AppsCafe)  
+**Developer / Service Provider:** Studio: AppsCafe (AppsCafe Studio)  
 **Operating Location:** Chishtian, Punjab, Pakistan  
 **Helpline / WhatsApp:** +92 312 0417196  
 
@@ -12,7 +12,7 @@
 
 ## 1. Introduction
 
-Welcome to **Chishtian Mart**. We are committed to protecting your privacy and ensuring your personal information is handled in a safe, transparent, and responsible manner. This Privacy Policy outlines how **Chishtian Mart** ("we", "our", or "us") collects, uses, stores, shares, and protects your information when you use our mobile application (**Chishtian Mart: Daily Grocery**) and our grocery delivery services in Chishtian, Punjab, Pakistan.
+Welcome to **Chishtian Mart**. We are committed to protecting your privacy and ensuring your personal information is handled in a safe, transparent, and responsible manner. This Privacy Policy outlines how **Chishtian Mart** ("we", "our", or "us") collects, uses, stores, shares, and protects your information when you use our mobile application (**Chishtian Mart: Online Grocery**) and our grocery delivery services in Chishtian, Punjab, Pakistan.
 
 By downloading, installing, or using the Chishtian Mart application or placing an order through our platform, you agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -88,7 +88,7 @@ We retain personal data only for as long as necessary to provide our services an
 Under Google Play's User Data Policy, you have the right to request the complete deletion of your account and all associated personal data at any time.
 
 **How to Request Account & Data Deletion:**
-1. **Via In-App:** Open the app → Navigate to **Account / Profile** → Tap **Delete My Account**.
+1. **Via In-App:** Open the app → Navigate to **Account / Profile** → Tap **Delete my data**.
 2. **Via WhatsApp / Phone Helpline:** Contact our customer support team directly via phone or WhatsApp at **+92 312 0417196** with your registered mobile phone number requesting account deletion.
 
 **What Happens Upon Deletion:**
